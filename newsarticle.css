@@ -1,0 +1,59 @@
+.topnav a:hover{
+  background color:silver;
+  color:white;
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  font-size: 40px;
+  padding: 10px;
+}
+
+.topnav input[type=text]{
+  float:right;
+  margin-right: 16px;
+  font-size: 20px;
+}
+a{
+  color: limegreen;
+}
+h1{
+  text-align: center;
+}
+img{
+  width:40%;
+  border: 10px;
+  border-style: solid;
+  border-color: silver;
+  float: right;
+
+}
+h4{
+  float: right;
+  margin-bottom: 150px;
+  padding-bottom: : 400px;
+}
+form{
+  font-size: 25px;
+}
+button{
+  background-color: limegreen;
+  color: white;
+}
+h2{
+  text-align: center;
+}
+iframe{
+  margin-left: 650px;
+}
+table{
+  border: 1px solid black;
+  background-image: url("https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408.jpg");
+  font-size: 25px;
+
+}
+#footer{
+  background-color: black;
+  color:limegreen;
+  font-size: 20px;
+}
