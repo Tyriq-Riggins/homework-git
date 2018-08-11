@@ -1,6 +1,6 @@
 .topnav a:hover{
-  background color:silver;
-  color:white;
+  background color:limegreen;
+  color:limegreen;
 }
 .topnav {
   overflow: hidden;
@@ -14,8 +14,12 @@
   margin-right: 16px;
   font-size: 20px;
 }
+body{
+  background-color: silver;
+}
 a{
-  color: limegreen;
+  color: white;
+  background-color: limegreen;
 }
 h1{
   text-align: center;
@@ -56,4 +60,5 @@ table{
   background-color: black;
   color:limegreen;
   font-size: 20px;
+  padding: 50px;
 }

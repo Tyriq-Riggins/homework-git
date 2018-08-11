@@ -1,0 +1,9 @@
+#grid-container {
+  font-size: 0;
+  width:225px;
+  margin: 0 auto;
+}
+img{
+  height: 100px;
+  width: 100px;
+}

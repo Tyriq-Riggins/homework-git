@@ -1,0 +1,68 @@
+body{
+  background-image:url(http://i63.tinypic.com/5nltt3.jpg);
+  background-background: darken, luminosity;
+  background-size:auto;
+  background-position: top;
+  background-clip: inherit;
+
+}
+ul.nav{
+  list-style: none;
+  padding: 0;
+}
+ul.nav li{
+  display:inline;
+}
+
+
+a{
+  text-decoration: none;
+  color:white;
+  padding:20px;
+
+}
+
+nav{
+  background-color:black;
+  padding: 10px;
+}
+
+a:hover{
+  background-color: limegreen;
+}
+h1{
+  background-color: white;
+  font-size: 40px;
+  margin-top: 2px;
+}
+h2{
+  color: white;
+  font-size: 30px;
+}
+
+
+img.page-one{
+  float: right;
+  width:17%;
+  margin-right: 350px;
+  margin-top: -5%;
+  border: 10px solid silver;
+  border-style:inset;
+
+}
+
+div{
+  float:left;
+}
+p{
+
+  color:white;
+  font-size: 20px;
+  background-color: black;
+  float: right;
+
+}
+button{
+  background-color: limegreen;
+  color: white;
+}
